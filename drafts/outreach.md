@@ -1,12 +1,17 @@
-# Outreach — Manifest First
+# Outreach — Manifest First (Houston)
 
-Pages not confirmed 200 on ship day 2026-10-03. No T1 until https://usabandit33.github.io/manifest-first/ returns HTTP 200.
+Gate: Pages HTTP 200 confirmed 2026-10-15.
+From: kaelnventures@gmail.com · Matt M.
+Phone + domain in every email. No money in T1–T4.
 
-- T1 Day 0 Pages live — not sent
-- T2 Day 3–4
-- T3 Day 7–10
-- T4 Day 13–14
+Visible live URL text: https://manifest-first/
+Href: https://usabandit33.github.io/manifest-first/
 
-From kaelnventures@gmail.com, Matt M. Phone + domain in every email. No money in T1–T4.
+| Company | Phone | Domain | Email | T1 | T2 | T3 | T4 |
+|---------|-------|--------|-------|----|----|----|----|
+| Drane Ranger | 281-489-1765 | draneranger.com | rwoods3719@aol.com | sent 2026-10-15 | | | |
+| Southwaste Disposal | 866-413-9494 | southwaste.com | info@southwaste.com | sent 2026-10-15 | | | |
 
-Readable inboxes next to the phone: Drane Ranger rwoods3719@aol.com; Southwaste info@southwaste.com. Start T1 with those two when Pages is 200. Do not guess the other four.
+Phone-only (no T1): Houston Grease Trap and Interceptor Services, Grease Trap Cleaning Spring, Pump Truck Houston, T.E.R. Septic Site and Utilities.
+
+T2 due ~2026-10-18/19.
